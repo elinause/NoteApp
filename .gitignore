@@ -1,0 +1,16 @@
+Python cache files
+
+pycache/
+*.py[cod]
+
+Virtual environment
+
+.venv/
+
+PyCharm settings
+
+.idea/
+
+Personal notes data
+
+notes.json
